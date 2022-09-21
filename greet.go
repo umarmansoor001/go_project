@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(){
-	fmt.Println("this file is in Git repo")
+func SayHello() {
+	fmt.Println("Hello!!!")
 }
